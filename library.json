@@ -5,12 +5,12 @@
   "keywords": ["arduino", "i2c", "digital potentiometer", "AD5259"],
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/thebestia90/AD5259.git"
   },
   "authors": [
     {
       "name": "thebestia90",
-      "url": "",
+      "url": "https://github.com/thebestia90",
       "maintainer": true
     }
   ],
